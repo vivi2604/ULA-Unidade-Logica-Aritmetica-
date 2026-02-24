@@ -110,5 +110,3 @@ Este projeto demonstra aplicação prática de:
 
 ## 📄 Relatório completo
 Para mais detalhes sobre o desenvolvimento do projeto, acesse o relatório completo
-
-## 📁 Estrutura do Repositório
